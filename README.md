@@ -24,9 +24,9 @@ To communicate with the chatbot, **you need both an internet connection and to s
 To set up the web server, complete the following steps:
 
 1. Download and install python 3.x (any version of python 3) from the official website https://www.python.org/downloads/.
-2. Copy the large script at the bottom of this description in full, make sure you select the whole script.
+2. Copy the large script at the bottom of this description in full, make sure you select the whole script. Alternatively, the script can be downloaded [here](stormgpt.py).
 3. Paste the script into a blank document on notepad (or notepad++, python IDE, or similar).
-4. Save the file as *StormGPT Server.py*. **Make sure to change the 'Save as type:' dropdown from 'Text documents (*.txt)' to 'All files' OR THE SCRIPT WILL NOT RUN.** You may save the file anywhere convenient, just make sure you can find it again.
+4. Save the file as *stormgpt.py*. **Make sure to change the 'Save as type:' dropdown from 'Text documents (*.txt)' to 'All files' OR THE SCRIPT WILL NOT RUN.** You may save the file anywhere convenient, just make sure you can find it again.
 5. To start the webserver, simply double click on the file (or excecute it in the terminal). A new terminal should pop up on your computer to indicate success, displaying *Listening on http://127.0.0.1:8080*. You must keep this open to be able to talk to the AI. If this does not pop up, you have done something wrong, and I advise you to consult the steps again.
 
 Once you are finished with the AI, simply shut the terminal window the script created to terminate the server.
