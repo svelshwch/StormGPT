@@ -1,5 +1,5 @@
 # Introducing StormGPT
-### Your ChatGPT-like AI Chatbot Companion
+### Your Stormworks AI Chatbot Companion
 
 Ask StormGPT anything about stormworks, life, the universe, and everthing. It can do (pretty much) everything your standard ChatGPT model can do and has a fairly good knowledge of in-game features and mechanics.
 
