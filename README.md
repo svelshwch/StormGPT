@@ -39,7 +39,7 @@ Once you are finished with the AI, simply shut the terminal window the script cr
 
 The AI doesn't require an API key to process requesuests as it uses APIFreeLLM instead of standard ChatGPT, though this does mean that **the AI is rate-limited to one request every 5 seconds,** returning an error if you attempt to spam promtps faster than this. Besides this, I haven't noticed any drop in quality for text-based applications when comparing the models.
 
-If you want to change the brief for the AI, feel free to do so. The webserver script is easy to modify, or even to connec to a different AI model, should you wish to do so.
+If you want to change the brief for the AI, feel free to do so. The webserver script is easy to modify or connect to a different AI model, should you wish to do so.
 
 Known bugs:
 
